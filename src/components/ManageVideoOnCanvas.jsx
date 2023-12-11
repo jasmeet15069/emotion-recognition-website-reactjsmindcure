@@ -75,7 +75,7 @@ const ManageVideoOnCanvas = () => {
         
         <div key={index}>
           
-          {emotion} <magnifyResults />
+          {emotion} 
           </div>
       ))}
       </div>

@@ -19,7 +19,6 @@ const magnifyResults = (listOfEmotions) =>
     R.nth(0),
     R.append(" %"),
     R.join("")
-   
   )
 )}
 
